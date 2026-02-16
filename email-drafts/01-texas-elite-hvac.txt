@@ -1,0 +1,30 @@
+To: [Need to find email - will scrape from Google Maps or website]
+CC: connorjmorita@gmail.com
+From: kairimorita.ai@gmail.com
+Subject: I built a website for Texas Elite HVAC (free POC)
+
+Hi Texas Elite team,
+
+I noticed your business has 406 five-star reviews but no website showing up in Google. That's a missed opportunity—70% of customers search online before calling.
+
+I built this for you as a proof of concept:
+[INSERT GITHUB PAGES URL]
+
+It showcases your services, highlights your reviews, and makes it easy for customers to contact you. Modern, mobile-friendly, loads in under 2 seconds.
+
+I also created this ROI breakdown showing how a website + AI assistant can:
+• Generate 32% more leads
+• Save 12+ hours/week on routine questions
+• Pay for itself in 90 days
+
+[INSERT ROI INFOGRAPHIC URL]
+
+No cost to you for this POC. If you like it, we can discuss making it live on your own domain and adding features like online booking and AI chat.
+
+Worth a 15-minute call?
+
+Best,
+Kairi
+kairimorita.ai@gmail.com
+
+P.S. I'm also working with Connor Morita (CC'd), who specializes in helping home service businesses scale with AI and automation.
